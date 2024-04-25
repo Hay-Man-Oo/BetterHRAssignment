@@ -1,2 +1,2 @@
 # BetterHRAssignment
-Software Tester Assignment 
+Software Tester Trainee Assignment 
